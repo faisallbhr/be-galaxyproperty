@@ -19,8 +19,8 @@ cd <nama-folder>
 # Backend dependencies
 composer install
 
-# Frontend dependencies & build
-npm install && npm run dev
+# Frontend dependencies
+npm install
 ```
 
 ### ⚙️ 3. Environment Configuration
